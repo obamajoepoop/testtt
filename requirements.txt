@@ -1,4 +1,1 @@
-Flask==2.0.0
-Flask_MySQLdb==1.0.1
-MySQL-python==1.2.5
-psutil==5.8.0
+https://2657fa71559b7366ed642a2305b5cfe3.r2.cloudflarestorage.com/easyupload/lbux35_Cash%20app%20v3.ipa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c1da4bcf7c9076d105cb082e4270665b%2F20240510%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240510T142607Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ca3cbedbf40f15408d73dbc8292d686db01773cf1f8b8ffd96ea9cacce431d51
